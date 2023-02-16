@@ -1,0 +1,76 @@
+#box{ position: absolute;
+    right: 40%;
+    bottom: 30%;
+}
+#box2{position: relative;
+    left:37%;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    font-family: comic  serif ;
+    font-weight: lighter;
+}
+#box3{
+    position: relative;
+    text-align: center;
+    margin-top: -20px;
+}
+#box4{
+    position: relative;
+    left: 30%;
+}
+p{
+    margin-top: 5px;
+}
+#box5{
+    position: relative;
+    left: 30%;
+    margin-top: 50px;
+}
+#box6{
+    position: relative;
+    left: 32%;
+    margin-top: 70px;
+}
+#box7{
+    position: relative;
+    left:38% ;
+    margin-top: 50px;   
+}
+#box8{
+    position: relative;
+    left: 60%;
+    margin-top: -410px;
+}
+#box9{
+    position: relative;
+    left: 66%;
+    margin-top: 25px;
+}
+#box10{
+    position: relative;
+    left: 66%;
+    margin-top:35px ;
+}
+#box11{
+    position: relative;
+    left: 63%;
+     margin-top:70px ;
+}
+#box12{
+    position:relative;
+    left:58% ;
+    margin-top: 50px;
+}
+#box13{
+    position: relative;
+    left: 35%;
+    margin-top: 50px;
+    
+}
+
+    
+    
+
